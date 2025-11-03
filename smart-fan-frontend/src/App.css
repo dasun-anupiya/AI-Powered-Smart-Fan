@@ -1,0 +1,11 @@
+.App {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 1em;
+  font-family: monospace;
+  background: #f5f5f5;
+  min-height: 100vh;
+}
+h2 {
+  text-align: center;
+}

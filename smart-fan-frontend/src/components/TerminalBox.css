@@ -1,0 +1,12 @@
+.terminal-box {
+  background: #222;
+  color: #0f0;
+  padding: 1em;
+  border-radius: 8px;
+  margin-top: 1em;
+  font-size: 1em;
+  min-height: 120px;
+  max-height: 200px;
+  overflow-y: auto;
+  font-family: "Fira Mono", monospace;
+} 
